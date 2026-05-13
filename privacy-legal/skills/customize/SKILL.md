@@ -93,7 +93,7 @@ cold-start interview and without hand-editing YAML.
   inconsistent (e.g., "processor only" + controller playbook positions
   active; or "no EU nexus" + SCCs in the default template), flag the
   tension.
-- **Flag guardrail degradation.** The `[review]` flag, source attribution
+- **Flag guardrail degradation.** The `[需审查]` flag, source attribution
   tags, `[verify]` tags on cited regulations, and the DPIA-trigger
   mandatory-check on `/triage` are load-bearing — do not remove. If
   statutory DSAR timelines are adjusted below the regulatory minimum,

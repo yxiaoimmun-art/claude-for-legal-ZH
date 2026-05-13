@@ -208,7 +208,7 @@ Rules for every skill, command, and agent in this plugin:
 > **⚠️ 审阅备注**
 > - **来源：** [研究连接器：元典 ✓ 已验证 | 未连接——引用来自训练知识，依赖前请核实]
 > - **已读：** [...]
-> - **标注供你判断：** [N个项目标注了 `[review]`]
+> - **标注供你判断：** [N个项目标注了 `[需审查]`]
 > - **时效性：** [...]
 > - **依赖前：** [...]
 
@@ -237,7 +237,7 @@ Rules for every skill, command, and agent in this plugin:
 
 ## 主观法律判断的决策姿态
 
-当本插件中的技能面临主观法律判断时，**倾向可恢复的错误**：以内嵌 `[review]` 标注具体行。
+当本插件中的技能面临主观法律判断时，**倾向可恢复的错误**：以内嵌 `[需审查]` 标注具体行。
 
 ---
 
@@ -263,7 +263,7 @@ Rules for every skill, command, and agent in this plugin:
 - `[模型知识 — 需验证]` ——其他一切。
 - **`[已确认 — 最近确认 YYYY-MM-DD]`** ——已验证的稳定引用。
 
-**标签词汇：** `[verify]` / `[review]` / 来源标签 / `[VERIFY: …]` / `[UNCERTAIN: …]`
+**标签词汇：** `[verify]` / `[需审查]` / 来源标签 / `[VERIFY: …]` / `[UNCERTAIN: …]`
 
 **目的地检查。** 标头是标签，不是控制。
 

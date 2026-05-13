@@ -1,6 +1,17 @@
 # Claude for Legal — 中国法版本
 
-为最常见的中国法律工作流提供的参考 Agent、技能和数据连接器——涵盖商事合同、隐私数据、产品合规、公司并购、劳动用工、争议解决、监管合规、AI 治理、知识产权，以及法学教育与法律诊所。
+<p align="center">
+  <a href="https://github.com/CSlawyer1985/claude-for-legal-ZH/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/CSlawyer1985/claude-for-legal-ZH"><img src="https://img.shields.io/badge/version-v1.0.0-brightgreen" alt="Version"></a>
+  <a href="https://github.com/CSlawyer1985/claude-for-legal-ZH/stargazers"><img src="https://img.shields.io/github/stars/CSlawyer1985/claude-for-legal-ZH?style=social" alt="Stars"></a>
+  <a href="https://github.com/CSlawyer1985/claude-for-legal-ZH"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <br>
+  <b>为最常见的中国法律工作流提供的参考 Agent、技能和数据连接器</b>
+  <br>
+  涵盖商事合同 · 隐私数据 · 产品合规 · 公司并购 · 劳动用工 · 争议解决 · 监管合规 · AI 治理 · 知识产权 · 法学教育 · 法律诊所
+</p>
+
+---
 
 > **新用户？** 从 [QUICKSTART.md](QUICKSTART.md) 开始——60 秒完成安装。本文是完整参考手册。
 
@@ -559,3 +570,7 @@ scripts/                  # deploy-managed-agent.sh · validate.py · orchestrat
 - **[Anthropic](https://www.anthropic.com/)** — 提供 `claude-for-legal` 开源插件框架和 Claude 模型能力，为中国法本地化改造奠定了坚实基础
 - **[DeepSeek-V4](https://www.deepseek.com/)** — 提供优惠算力支持，使大规模法律技能文件的本地化改造在经济上可行
 - **[浙江海泰律师事务所](https://www.hightac.com/)** — 提供专业成长环境和实务土壤，本版本中融入的合同审查方法论、诉讼分析框架和风险评价体系均源于海泰的长期培养
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CSlawyer1985/claude-for-legal-ZH&type=Date)](https://star-history.com/#CSlawyer1985/claude-for-legal-ZH&Date)

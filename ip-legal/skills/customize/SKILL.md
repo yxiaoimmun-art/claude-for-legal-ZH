@@ -96,7 +96,7 @@ interview and without hand-editing YAML.
   inconsistent (e.g., trademark out of scope + trademark watch service
   configured; or aggressive enforcement posture + "all C&Ds go to outside
   counsel"), flag the tension.
-- **Flag guardrail degradation.** The `[review]` flag, source attribution
+- **Flag guardrail degradation.** The `[需审查]` flag, source attribution
   tags, and `[verify]` tags on cited authorities are load-bearing — do not
   remove. Clearance confidence is load-bearing on `/clearance` output — do
   not suppress.
