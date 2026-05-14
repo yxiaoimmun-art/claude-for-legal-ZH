@@ -591,3 +591,7 @@ scripts/                  # deploy-managed-agent.sh · validate.py · orchestrat
 - **[浙江海泰律师事务所](https://www.hightac.com/)** — 提供专业成长环境和实务土壤，本版本中融入的合同审查方法论、诉讼分析框架和风险评价体系均源于海泰的长期培养
 
 ---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CSlawyer1985/claude-for-legal-ZH&type=Date)](https://star-history.com/#CSlawyer1985/claude-for-legal-ZH&Date)
