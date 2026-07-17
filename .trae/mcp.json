@@ -1,1 +1,55 @@
+{
+  "mcpServers": {
+    "yuandian": {
+      "command": "npx",
+      "args": ["-y", "yuandian-mcp-server"],
+      "description": "中国法律法规与案例检索 — 语义搜索法律法规、法条条文、裁判文书（本地 stdio 版，需本机 Node.js）。"
+    },
+    "yuandian-http": {
+      "url": "https://mcp.yuandian.com/mcp",
+      "description": "元典法律检索 — 法律法规、案例、法学文献（托管 http 版，走 OAuth 授权，无需本地 Node.js）。"
+    },
+    "pkulaw": {
+      "url": "https://mcp.pkulaw.com/mcp",
+      "description": "北大法宝 — 中国法律资源总库：法律法规、司法案例、法学期刊、英文译本。"
+    },
+    "feishu": {
+      "url": "https://open.feishu.cn/mcp",
+      "description": "飞书 — 搜索消息、读取群组、查找讨论，中文企业协作平台。"
+    },
+    "esign": {
+      "url": "https://openapi.esign.cn/mcp",
+      "description": "e签宝 — 电子签名服务：合同签署状态追踪、签署流程管理、电子存证查询。"
+    },
+    "fadada": {
+      "url": "https://openapi.fadada.com/mcp",
+      "description": "法大大 — 电子合同签署与管理平台：合同生命周期管理、签署流程、电子证据保全。"
+    },
+    "slack": {
+      "url": "https://mcp.slack.com/mcp",
+      "description": "Slack — 搜索消息、阅读频道、查找讨论。"
+    },
+    "google-drive": {
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "description": "Google Drive — 搜索、读取、获取文档。"
+    },
+    "box": {
+      "url": "https://mcp.box.com/mcp",
+      "description": "Box — 数据室和文档管理。"
+    },
+    "linear": {
+      "url": "https://mcp.linear.app/mcp",
+      "description": "Linear — 任务追踪与项目管理（国际团队）。"
+    },
+    "atlassian": {
+      "url": "https://mcp.atlassian.com/v1/sse",
+      "description": "Atlassian — Jira 任务与 Confluence 文档（国际团队）。"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "c:/Users/XY/MATLAB Drive/SYNC/open_source/claude-for-legal-ZH-main"],
+      "description": "本地文件系统 — 读取本仓库内的劳动规章、合同模板、案件材料、裁判文书等本地文档。"
+    }
+  }
+}
 
